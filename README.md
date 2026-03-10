@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Adnyeya 👋
 
-<!--
-**Ag06117/Ag06117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer
+🔐 Future Cybersecurity Specialist
 
-Here are some ideas to get you started:
+Projects:
+• Bank Management System (Java)
+• Weather API App
+• Login & Registration System
+• Sahara Multiservices Business Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+Java
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+Bootstrap
